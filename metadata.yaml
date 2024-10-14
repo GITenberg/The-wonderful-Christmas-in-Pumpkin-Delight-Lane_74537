@@ -1,0 +1,35 @@
+_repo: The-wonderful-Christmas-in-Pumpkin-Delight-Lane_74537
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Prichard, Sarah J. (Sarah Johnson)
+    aliases:
+    - Prichard, Sarah Johnson
+    - Prichard, S. J. (Sarah Johnson)
+    - Pritchard, S. J. (Sarah Johnson)
+    - Pritchard, Sarah J. (Sarah Johnson)
+    birthdate: 1830
+    deathdate: 1909
+    gutenberg_agent_id: '36339'
+    url: http://www.gutenberg.org/2009/agents/36339
+description: ''
+gutenberg_issued: '2024-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74537'
+language: en
+pgterms:marc904: https://archive.org/details/wonderfulchristm0000sara/page/n7/mode/2up
+pgterms:marc905: 20221208124434prichard
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: Richard Tonsing, Charlene Taylor, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew Haven :$bTuttle, Morehouse & Taylor, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The wonderful Christmas in Pumpkin Delight Lane
+url: http://www.gutenberg.org/ebooks/74537
