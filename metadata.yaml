@@ -1,5 +1,8 @@
 _repo: The-wonderful-Christmas-in-Pumpkin-Delight-Lane_74537
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74537-h/images/cover.jpg
 creator:
   author:
     agent_name: Prichard, Sarah J. (Sarah Johnson)
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '36339'
     url: http://www.gutenberg.org/2009/agents/36339
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74537#The-wonderful-Christmas-in-Pumpkin-Delight-Lane
 gutenberg_issued: '2024-10-07'
 gutenberg_type: Text
 identifiers:
